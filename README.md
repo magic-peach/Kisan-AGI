@@ -3,6 +3,8 @@
 ## 📖 Description
 
 **Kisan-AGI** is a modern, high-contrast agricultural mobile application specifically designed for Indian farmers. The app offers intuitive crop management, instant disease diagnosis using AI, and a supportive community platform. Built with accessibility in mind, it features large buttons, clear text, and a vibrant agricultural-themed design.
+![WhatsApp Image 2026-02-04 at 17 34 12](https://github.com/user-attachments/assets/43b1db2a-2a6e-4285-af54-76b5dfa889d3)
+
 
 ### Key Features
 
